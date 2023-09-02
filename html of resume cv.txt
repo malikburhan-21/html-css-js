@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="container">
+
+        <div class="left_div">
+            <div class="profiletxt">
+                <div class="imgarea">
+                    <img src="/img.jpg"  alt="profile"/>
+                </div>
+                <h2>BURHAN FAROOQ<br><span>web developer</span></h2>
+            </div>
+            <div class="contact">
+                <h3 class="title">CONTACT DETAILS:</h3>
+                <ul>
+                    <li>8491854026</li><br>
+                    <li> malikburhan37997@gmail.com</li><br>
+                    <li>codewithburhan.com</li><br>
+                    <li>@github/burhan_farooq21 </li><br>
+                    <li>tral,pulwama,j&k</li>
+
+                </ul>
+
+            </div>
+
+            <div class="education">
+                <h3 class="edu">EDUCATION DETAILS :</h3>
+                <li type="none">
+                    <h5>2017-2018</h5><br>
+                    <h4>matriculation</h4><br>
+                    <h6>jems,tral,pulwama,j&k</h6><br>
+                    
+                </li>
+
+                <li type="none">
+                    <h5>2021-2025</h5><br>
+                    <h4>bachelor degree in computer science </h4><br>
+                    <h6>islamic university of science and technology</h6>
+
+                </li>
+            </div>
+ 
+             <div class="language">
+                <h3 class="lang">LANGUAGES:</h3>
+                <ul type="none">
+
+                    <li>english</li><br>
+                    <li>urdu</li><br>
+                    <li>kashmirir</li>
+
+                </ul>
+               
+
+             </div>
+
+        </div>
+
+
+        <div class="right_div"> 
+            <div class="about2">
+                <h2 class="title2">PROFILE</h2>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat voluptatum voluptatem ea optio,
+                    aspernatur reiciendis incidunt expedita, veniam ducimus, nesciunt ratione enim magni inventore ti 
+                    illum animi minima suscipit jasidukdjlkm alauhamaajalasaa a  jju mmu cssuuidkkskask.
+                     <br><br>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat voluptatum voluptatem ea optio,
+                    aspernatur reiciendis incidunt expedita, veniam ducimus, nesciunt ratione enim magni inventore 
+                </p>
+            </div>
+
+            <div class="about2">
+                <h2 class="title2">EXPERIENCE </h2>
+                <div class="box">
+                 <div class="year">
+                    <h5>2020-present</h5>
+                    <h5>sopra steria pvt.ltd</h5>
+                 </div>
+                  <div class="text">
+                    <h4>ux designer</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.Officia assumenda commodi delectus
+                    </p><
+                  </div>
+                  </div>
+
+                  <div class="box">
+                    <div class="year">
+                       <h5>2018-2020</h5>
+                       <h5> algo pow sols</h5>
+                    </div>
+                     <div class="text">
+                        <h4>ux designer</h4>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.Officia assumenda commodi delectus
+                        </p>
+                     </div>
+                     </div>
+
+
+                     <div class="box">
+                        <div class="year">
+                           <h5>2016-2018</h5>
+                           <h5>fench sols</h5>
+                        </div>
+                         <div class="text">
+                           <h4>junior developer</h4><br>
+                           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.Officia assumenda commodi delectus
+                           </p>
+                         </div>
+                         </div>
+                </div>
+
+                <div class="skills">
+                     <h2 class="box">SKILLS</h2><br><br>
+
+                     <div class="box">
+                        <h4>HTML</h4>
+                        <div class="line">
+                            <div style="width: 90%;"></div>
+                        </div>
+                       
+                     </div>
+                      <br><br>
+                     <div class="box">
+                        <h4>CSS</h4>
+                        <div class="line">
+                            <div style="width: 70%;"></div>
+                        </div>
+                       
+                     </div>
+
+                      <br><br>
+
+                     <div class="box">
+                        <h4>javascript</h4>
+                        <div class="line">
+                            <div style="width: 50%;"></div>
+                        </div>
+                        
+                     </div>
+
+                     <br><br>
+                     <div class="box">
+                        <h4>adobe XD</h4>
+                        <div class="line">
+                            <div style="width: 60%;"></div>
+                        </div>
+                       
+                     </div>
+                     <br><br>
+                
+                </div>
+
+         <div class="interest">
+            <h2 class="title">INTEREST</h2>
+            <ul>
+                <li>reading</li>
+                <li>travelling</li>
+                <li>spending time in nature</li>
+                <li>get updated with technologies</li>
+            </ul>
+         </div>
+
+        </div>
+    </div>
+
+       
+</body>
+</html>
